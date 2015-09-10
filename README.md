@@ -23,7 +23,7 @@
 
 **Quick Install:**
 
-    git clone --recursive https://github.com/syl20bnr/spacemacs ~/.emacs.d
+    git clone --recursive https://github.com/alicegugu/spacemacs ~/.emacs.d
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc/generate-toc again -->
 **Table of Contents**
@@ -218,7 +218,7 @@ For efficient searches we recommend to install `pt` ([the platinum searcher][]).
 2. Clone this repository _with its submodules_:
 
    ```sh
-   git clone --recursive https://github.com/syl20bnr/spacemacs ~/.emacs.d
+   git clone --recursive https://github.com/alicegugu/spacemacs ~/.emacs.d
    ```
 
    `master` is the stable branch and is regularly updated. Switch to the `develop`
